@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaO_M7HjlCniA_WSZq92dChjsy1XooOsRQxA&s">
+<img src="https://media.tenor.com/X1nlfLKP6toAAAAM/cat-eat.gif">
 
 Here are some ideas to get you started:
 
