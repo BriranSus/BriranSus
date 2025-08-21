@@ -5,12 +5,12 @@
 ### GitHub Stats:
 <p align="left">
   <a href="https://github.com/BriranSus">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriranSus&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
   </a>
 </p>
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BriranSus&theme=github_dark&hide_border=false"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BriranSus&theme=github_dark&hide_border=false"/>
 
 ### Tech Stack:
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
