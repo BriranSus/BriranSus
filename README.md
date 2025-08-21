@@ -3,9 +3,13 @@
 <img src="https://media.tenor.com/OZsJxcn2fiAAAAAM/funny-cat-eating-chips.gif">
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BriranSus&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <a href="https://github.com/BriranSus">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="[https://github-readme-stats.vercel.app/api?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=BriranSus&theme=github_dark&hide_border=false)"/>
+    <img height="150em" src="[https://github-readme-stats.vercel.app/api?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api/top-langs/?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)"/>
+  </a>
+</p>
 
 ### 🔍 My Social Media:
 <p> 
