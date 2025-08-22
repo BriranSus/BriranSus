@@ -20,6 +20,7 @@
   <img align="left" src="https://img.shields.io/badge/ReactJS-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
   <img align="left" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=Typescript&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css&logoColor=white"/>
   <br><br>
 
 ### My Social Media:
