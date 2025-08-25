@@ -1,4 +1,4 @@
-## Hi there I'm Brian Susanto👋
+## Hi there I'm Brian Susanto 👋
 
 <img src="https://media.tenor.com/OZsJxcn2fiAAAAAM/funny-cat-eating-chips.gif">
 
