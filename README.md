@@ -1,4 +1,5 @@
 ## Hi there I'm Brian Susanto👋
+I'm a computer science student
 
 <img src="https://media.tenor.com/OZsJxcn2fiAAAAAM/funny-cat-eating-chips.gif">
 
