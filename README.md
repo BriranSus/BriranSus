@@ -6,7 +6,7 @@ I'm the average computer science student
 ### GitHub Stats:
 <p align="left">
   <a href="https://github.com/BriranSus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook"/>
   </a>
 </p>
