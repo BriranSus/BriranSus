@@ -1,5 +1,5 @@
 ## Hi there I'm Brian Susanto👋
-I'm the average computer science student, I love website development and implementing AI models to website.
+I'm the average computer science student, I'm passionate about website development and focuses on the techniques of implementing AI models to website.
 
 <img src="https://media.tenor.com/OZsJxcn2fiAAAAAM/funny-cat-eating-chips.gif">
 
