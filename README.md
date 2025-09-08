@@ -14,7 +14,6 @@ I'm the average computer science student, I'm passionate about website developme
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BriranSus&theme=github_dark&hide_border=false"/>
 
 ### Tech Stack:
-  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=HTML5&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=Javascript&logoColor=%23F7DF1E"/>
@@ -22,6 +21,7 @@ I'm the average computer science student, I'm passionate about website developme
   <img align="left" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=Typescript&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=Python&logoColor=%23FFD43B"/>
+  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
   <br><br>
 
 ### My Social Media:
