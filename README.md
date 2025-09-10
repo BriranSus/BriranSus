@@ -24,7 +24,7 @@ I'm the average computer science student, I'm passionate about website developme
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
   <br><br>
 
-### My Active Social Media:
+### My Social Media:
 <p> 
   <a href="https://www.linkedin.com/in/alexander-brian-susanto-11419b260" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
