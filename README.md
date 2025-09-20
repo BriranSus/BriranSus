@@ -1,8 +1,6 @@
 ## Hi there I'm Brian Susanto👋
 I'm passionate about Front-End website development and focuses on the techniques of implementing fine-tuned AI models to custom made website.
 
-<img src="https://media.tenor.com/OZsJxcn2fiAAAAAM/funny-cat-eating-chips.gif">
-
 ### GitHub Stats:
 <p align="left">
   <a href="https://github.com/BriranSus">
