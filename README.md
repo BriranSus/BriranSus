@@ -1,5 +1,5 @@
 ## Hi there I'm Brian Susanto👋
-I'm passionate about Front-End Website development and focuses on the techniques of implementing fine-tuned AI models and API to custom made website.
+I'm passionate about Front-End Website development and focuses on implementing fine-tuned AI models and API to custom made website.
 
 ### GitHub Stats:
 <p align="left">
