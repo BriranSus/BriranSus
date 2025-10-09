@@ -1,5 +1,5 @@
 ## Hi there I'm Brian Susanto👋
-I'm passionate about Fullstack Website development but is currently still learning Backend.
+I'm passionate about Fullstack Website development but is currently still learning Backend Development.
 
 ### GitHub Stats:
 <p align="left">
