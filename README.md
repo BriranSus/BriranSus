@@ -11,16 +11,42 @@ I'm passionate about Fullstack Website development, I'm currently learning Expre
 
 <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=BriranSus&theme=github_dark&hide_border=false"/>
 
-### Tech Stack:
-  <img align="left" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=HTML5&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=Javascript&logoColor=%23F7DF1E"/>
-  <img align="left" src="https://img.shields.io/badge/ReactJS-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-  <img align="left" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=Typescript&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=Python&logoColor=%23FFD43B"/>
-  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
-  <br><br>
+## 🧠 Tech Stack
+
+### 💻 Frontend
+<div align="start">
+<div>
+
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white"/>
+
+</div>
+
+---
+
+### ⚙️ Backend
+<div>
+
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=%23FFD43B"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+### 🗄️ Database
+<div>
+
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"/>
+
+</div>
+</div>
 
 ### My Social Media:
 <p> 
