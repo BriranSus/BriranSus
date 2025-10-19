@@ -44,6 +44,7 @@ I'm passionate about Fullstack Website development, I'm currently learning Expre
 <div>
 
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postgre-%234479A1.svg?logo=mysql&logoColor=white"/>
 
 </div>
 </div>
