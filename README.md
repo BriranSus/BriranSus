@@ -15,14 +15,13 @@ I'm passionate about Fullstack Website development, I'm currently learning Expre
 
 ### 💻 Frontend
 <div align="start">
-<div>
 
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=HTML5&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=CSS3&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?logo=react&logoColor=%2361DAFB"/> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white"/>
 
 </div>
@@ -30,21 +29,21 @@ I'm passionate about Fullstack Website development, I'm currently learning Expre
 ---
 
 ### ⚙️ Backend
-<div>
+<div align="start">
 
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=%23FFD43B"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=%23FFD43B"/> &nbsp;
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
 
 </div>
 
 ---
 
 ### 🗄️ Database
-<div>
+<div align="start">
 
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postgre-%234479A1.svg?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"/>
 
 </div>
 </div>
