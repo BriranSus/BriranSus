@@ -1,5 +1,5 @@
 ## Hi there I'm Brian Susanto👋
-I'm passionate about Fullstack Website development, I'm currently learning Express.js for Backend Development and Next.js for Frontend Development.
+I'm passionate about Fullstack Website development, Currently learning Express.js for Backend Development and Next.js for Frontend Development.
 
 ### GitHub Stats:
 <p align="left">
