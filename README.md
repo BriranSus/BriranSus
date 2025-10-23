@@ -33,7 +33,7 @@ I'm passionate about Fullstack Website development, Currently learning Express.j
 
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=%23FFD43B"/> &nbsp;
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Hapi.js-%23417E38.svg?logo=hapi&logoColor=white"/> &nbsp;
 
 </div>
