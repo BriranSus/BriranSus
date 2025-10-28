@@ -1,5 +1,5 @@
 ## Hi there I'm Brian Susanto (BriranSus)
-I'm passionate about Frontend Website development, but I'm currently learning to be a Fullstack, Express.js for Backend Development and Next.js for Frontend Development.
+I'm passionate about Frontend Website development, but I'm currently learning to be a Fullstack, Hapi.js for Backend Development and Next.js for Frontend Development.
 
 ### GitHub Stats:
 <p align="left">
