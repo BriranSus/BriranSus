@@ -1,5 +1,5 @@
 ## Hi there I'm Brian Susanto (BriranSus)
-Currently learning to be a Fullstack Web Developer, learning Next.js and Hapi.js.
+Currently learning Fullstack Web Development, learning Next.js and Hapi.js.
 
 ### GitHub Stats:
 <p align="left">
