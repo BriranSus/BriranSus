@@ -1,7 +1,7 @@
-## Hi there I'm Brian Susanto (BriranSus)
-🚀 Currently exploring Next.js and Hapi.js to build modern, scalable web applications.
-💡 I love turning ideas into interactive, efficient, and user-friendly digital experiences.
-🧠 Always learning, always building.
+## Hi there I'm Brian Susanto (BriranSus)<br>
+🚀 Currently exploring Next.js and Hapi.js to build modern, scalable web applications.<br>
+💡 I love turning ideas into interactive, efficient, and user-friendly digital experiences.<br>
+🧠 Always learning, always building.<br>
 
 ### GitHub Stats:
 <p align="left">
