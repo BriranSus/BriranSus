@@ -1,5 +1,5 @@
 ## Hi there I'm Brian Susanto (BriranSus)<br>
-* Currently learning Next.js and Express.js.<br>
+* I'm currently learning Next.js and Express.js.<br>
 * I love turning prototype figma designs into interactive, efficient, and user-friendly websites.<br>
 
 ### GitHub Stats:
