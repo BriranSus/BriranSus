@@ -1,12 +1,12 @@
 ## Hi there I'm Brian Susanto (BriranSus)<br>
-* I'm currently learning Next.js and Express.js.<br>
+* I'm currently learning Laravel<br>
 * I love turning prototype designs into interactive, efficient, and user-friendly websites<br>
 
 ### GitHub Stats:
 <p align="left">
   <a href="https://github.com/BriranSus">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook"/>
   </a>
 </p>
 
