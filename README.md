@@ -6,7 +6,7 @@
 <p align="left">
   <a href="https://github.com/BriranSus">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BriranSus&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   </a>
 </p>
 
