@@ -1,6 +1,6 @@
 ## Hi there I'm Brian Susanto (BriranSus)<br>
 * I'm currently learning Laravel.<br>
-* I love turning prototype designs into interactive, efficient, and user-friendly websites<br>
+* I love turning prototype designs into interactive, efficient, and user-friendly websites.<br>
 
 ### GitHub Stats:
 <p align="left">
